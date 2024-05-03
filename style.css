@@ -1,9 +1,30 @@
 body{
     background-color: rgb(71, 71, 71);
+    background-image:url(photod/20240430_231102000_iOS.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
 }
-photo01{
+.photo01{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center, center;
     background-attachment: fixed;
+}
+.topbar{
+    position: center;
+    width: cover;
+    height: cover;
+    left: cover;
+    top: 0px;
+
+    background: #19281E;
+    border: solid #19281E;
+    color: aliceblue;
+    text-align: center;  
+}
+#logo_temporario{
+    width: 50px;
+    margin-left: 85%;
+    border-radius: 100px;
+    filter: drop-shadow(0 0 1.75rem aliceblue);
 }
