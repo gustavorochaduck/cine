@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(71, 71, 71);
+}
+photo01{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center, center;
+    background-attachment: fixed;
+}
